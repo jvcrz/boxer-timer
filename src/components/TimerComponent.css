@@ -1,0 +1,118 @@
+/* Para Chrome, Safari, Edge, Opera */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Para Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+  
+}
+
+body {
+    max-width: 490px;
+}
+
+.btn-main1 {
+    color: #f8f9fd;
+    padding: 8px 24px;
+    margin-bottom: -6px;
+    background-color: transparent;
+    border: 1px solid #45ADFF;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-main2 {
+    color: #f8f9fd;
+    padding: 8px 24px;
+    margin-bottom: -6px;
+    background-color: transparent;
+    border: 1px solid #EC6170;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.timer-body {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.timer-content {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    margin: -12px 0;
+    padding: 0;
+}
+
+.headline-input {
+    color: #f8f9fd;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+}
+
+.headline-input2 {
+    color: #f8f9fd;
+    font-weight: 400;
+    letter-spacing: -0.03em;
+    margin-top: 40px;
+}
+
+.timer-input {
+    color: #f8f9fd;
+    width: 50px;
+    padding: 8px 0;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid;
+    border-radius: 8px;
+}
+
+.btn-secondary1 {
+    color: #EC6170;
+    font-size: 16px;
+    padding: 0 20px;
+    background-color: transparent;
+    border: 1px solid #EC6170;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-secondary2 {
+    color: #45ADFF;
+    font-size: 16px;
+    padding: 0 20px;
+    background-color: transparent;
+    border: 1px solid #45ADFF;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.headline4 {
+    color: #f8f9fd;
+    font-weight: 400;
+}
+
+.para {
+    color: #f8f9fd;
+    opacity: 0.5;
+    font-weight: 300;
+    line-height: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.label-b {
+    align-content: center;
+    margin: 10px 40px;
+}
