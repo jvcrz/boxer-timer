@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/boxer-timer/static/css/main.db5e39ab.css",
+    "main.js": "/boxer-timer/static/js/main.6330a5a1.js",
+    "static/media/tiro.mp3": "/boxer-timer/static/media/tiro.2180840143de0e8b10f6.mp3",
+    "index.html": "/boxer-timer/index.html",
+    "main.db5e39ab.css.map": "/boxer-timer/static/css/main.db5e39ab.css.map",
+    "main.6330a5a1.js.map": "/boxer-timer/static/js/main.6330a5a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5e39ab.css",
+    "static/js/main.6330a5a1.js"
+  ]
+}
